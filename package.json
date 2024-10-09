@@ -3,6 +3,7 @@
   "scripts": {
     "build": "next build",
     "dev": "next dev",
+    "open-browser": "start http://localhost:3000",
     "start": "next start"
   },
   "dependencies": {
